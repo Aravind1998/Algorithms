@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class merz{
+public class MergeSort{
     private static int low=0;
     private static int n=6000;
     private static int high;
