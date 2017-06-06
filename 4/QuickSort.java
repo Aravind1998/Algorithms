@@ -1,5 +1,5 @@
 import java.util.*;
-public class Quick{
+public class QuickSort{
 public static int n = 5000;
 public static int[] a;
 public static int num;
