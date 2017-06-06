@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class KnapsackDp{
+class KnapsDp{
     static int max(int a, int b) { return (a > b)? a : b; }
     static int knapSack(int W, int wt[], int val[], int n)
     {
