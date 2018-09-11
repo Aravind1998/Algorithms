@@ -33,9 +33,9 @@ public class Student {
 		for(int i=0;i<n;i++)
 		{
 		System.out.println("Student " + (i+1) + " Usn" + "=" + students[i].Usn);
-System.out.println("Student " + (i+1) + " Name" + "=" + students[i].Name);
-System.out.println("Student " + (i+1) + " Branch" + "=" + students[i].Branch);
-System.out.println("Student " + (i+1) + " Phone" + "=" + students[i].Phone);
+		System.out.println("Student " + (i+1) + " Name" + "=" + students[i].Name);
+		System.out.println("Student " + (i+1) + " Branch" + "=" + students[i].Branch);
+		System.out.println("Student " + (i+1) + " Phone" + "=" + students[i].Phone);
 
 		}  		 
 	}
