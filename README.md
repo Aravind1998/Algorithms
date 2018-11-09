@@ -1,2 +1,2 @@
 # Algorithms
-This repository is for storing all algorithms implemented in the Design And Analysis Of Algorithms Lab.
+This repository is for storing all algorithms implemented as part of VTU Design And Analysis Of Algorithms Lab.
